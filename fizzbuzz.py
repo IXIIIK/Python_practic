@@ -16,5 +16,4 @@ def fizz_buzz(begin, end):
         
     return b.strip()
 
-print(fizz_buzz(7, 12))
 
