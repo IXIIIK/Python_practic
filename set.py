@@ -9,8 +9,5 @@ def all_unique(arg):
     else:
         return False
 
-    
-
-print(all_unique(iter([1, 3, 4])))
 
 
