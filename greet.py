@@ -6,7 +6,5 @@ def greet(name, *args):
 
 
 
-print(greet(*'ABC'))
-
 
 
