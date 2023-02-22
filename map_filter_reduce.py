@@ -9,5 +9,3 @@ def abs_sum(itr):
 
 def walk(dct, itr): 
     return reduce(getitem, itr, dct)
-
-print(walk({'a': {7: {'b': 42}}}, ["a", 7]))
