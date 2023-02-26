@@ -16,7 +16,3 @@ def f(x):
     print('Calculating...')
     return x * 10
 
-
-print(f(1))
-
-print(f(1))
